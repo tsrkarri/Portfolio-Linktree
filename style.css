@@ -305,6 +305,7 @@ section {
 
 .about-containers {
   display: flex;
+  flex-wrap:wrap;
 }
 
 .about-pic {
