@@ -401,7 +401,7 @@ body {
 }
 
 .details-container {
-  width: calc(33.33% - 40px); /* Adjust the width as needed */
+  width: fit-content; /* Adjust the width as needed */
   margin-bottom: 20px; /* Adjust margin between projects */
   box-sizing: border-box;
   padding: 20px; /* Add padding to create space between projects */
